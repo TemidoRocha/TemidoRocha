@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-- ⚡ Fun fact:
+
+⚡ Fun fact:
 <div style="display: flex;">
   
-  <p>- Past Pharmacist<p>
-</div>
-<div style="display: flex;">
-  <p>- Past Cruise Ship Pilot<p>
-  <img width="50px" height="50px" src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png" alt="github copilot icon" />
-</div>
+<p>- Past Pharmacist<p>
+
+<em>Past Cruise Ship Pilot</em><img width="50px" height="50px" src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png" alt="github copilot icon">
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temidorocha&hide_title&hide_border&theme=buefy)](https://github.com/temidorocha/github-readme-stats)
