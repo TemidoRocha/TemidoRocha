@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- ⚡ Fun fact:
+<div style="display: flex;">
+  <p>- Past Cruise Ship Pilot<p>
+  <img src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png" alt="github copilot icon" />
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temidorocha&hide_title&hide_border&theme=buefy)](https://github.com/temidorocha/github-readme-stats)
