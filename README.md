@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ⚡ Fun fact:
 <p>- Past Pharmacist<p>
 
-<p>Past Cruise Ship Pilot</p<img width="25px" height="25px" src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png" alt="github copilot icon">
+<p>Past Cruise Ship Pilot</p><img width="25px" height="25px" src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png" alt="github copilot icon">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temidorocha&hide_title&hide_border&theme=buefy)](https://github.com/temidorocha/github-readme-stats)
