@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![TemidoRocha's GitHub stats](https://github-readme-stats.vercel.app/api?username=temidorocha)](https://github.com/temidorocha/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temidorocha)](https://github.com/temidorocha/github-readme-stats)
