@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <hr>
 - ⚡ Fun fact:
 <div style="display: flex;">
-  <a href="https://flyclipart.com/search-pharmacist-cvs-logo-png-685502" title="Search Pharmacist - Cvs Logo PNG"><img src="https://flyclipart.com/thumb2/search-pharmacist-685502.png" width="350" /></a>
+  
   <p>- Past Pharmacist<p>
 </div>
 <div style="display: flex;">
