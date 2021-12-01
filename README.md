@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr>
 - ⚡ Fun fact:
+<div style="display: flex;">
+  <a href="https://flyclipart.com/search-pharmacist-cvs-logo-png-685502" title="Search Pharmacist - Cvs Logo PNG"><img src="https://flyclipart.com/thumb2/search-pharmacist-685502.png" width="350" /></a>
+  <p>- Past Pharmacist<p>
+</div>
 <div style="display: flex;">
   <p>- Past Cruise Ship Pilot<p>
   <img width="50px" height="50px" src="https://github.githubassets.com/images/icons/copilot/cp-head-square.png" alt="github copilot icon" />
