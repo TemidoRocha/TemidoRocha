@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <hr>
 
-- 🔭 I’m currently working on mongodb-sample-api
-- 🌱 I’m forever learning to be a Software Developer
+🔭 I’m currently working on mongodb-sample-api
+🌱 I’m forever learning to be a Software Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temidorocha&hide_title&hide_border&theme=buefy&layout=compact)](https://github.com/temidorocha/github-readme-stats)
 
