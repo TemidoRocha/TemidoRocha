@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-🔭 I’m currently working on mongodb-sample-api
+🔭 I’m currently doing the ZTM Vue Developer
 <br>
 🌱 I’m forever learning to be a Software Developer
 
