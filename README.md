@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 <br>
 🌱 I’m forever learning to be a Software Developer
-<br>
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temidorocha&hide_title&hide_border&theme=dracula&layout=compact)](https://github.com/temidorocha/github-readme-stats)
 
 <hr>
