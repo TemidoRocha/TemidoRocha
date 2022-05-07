@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 <hr>
 
 🔭 I’m currently doing the ZTM JavaScript: The Advanced Concepts
+<br>
 ⚡ Starting a love story with Rust
 
 <br>
 🌱 I’m forever learning to be a Software Developer
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=temidorocha&hide_title&hide_border&theme=dracula&layout=compact)](https://github.com/temidorocha/github-readme-stats)
 
 <hr>
