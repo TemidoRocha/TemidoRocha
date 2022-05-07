@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 <hr>
 
-🔭 I’m currently doing the ZTM Vue Developer
+🔭 I’m currently doing the ZTM JavaScript: The Advanced Concepts
+⚡ Starting a love story with Rust
+
 <br>
 🌱 I’m forever learning to be a Software Developer
 
