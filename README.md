@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-🔭 I’m currently doing the ZTM JavaScript: The Advanced Concepts
+🔭 ZTM Rules
 <br>
 ⚡ Starting a love story with Rust
 
