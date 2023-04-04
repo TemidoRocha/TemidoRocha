@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<br>
+⚡ Starting a love story with Rust
 -->
 
 <hr>
 
 🔭 ZTM Rules
-<br>
-⚡ Starting a love story with Rust
+
 
 <br>
 🌱 I’m forever learning to be a Software Developer
